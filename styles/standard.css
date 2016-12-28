@@ -1,0 +1,13 @@
+#standar{
+    color: #aeadae;
+    border: 1px solid #6e6e6e;
+    border-style: none solid solid;
+    float: left;
+    height: 560px;
+    line-height: 24px;
+    position: absolute;
+    margin: 0 11px 0 0;
+    overflow: hidden;
+    padding: 5px 10px 0;
+    width: 1px;
+}
